@@ -1,8 +1,14 @@
 # 💫 Olá, eu sou a Ana Julia!  
 
-🎓 Estudante de **Sistemas de Informação** na EACH-USP  
-📊 Maior foco e interesse em **Ciência de Dados**, **Machine Learning** e **Análise de Dados**    
+🎓 Estudante de **Sistemas de Informação** na EACH-USP    
 🚀 Apaixonada por usar tecnologia e dados para solucionar problemas
+
+---
+
+# 💡 Áreas de Interesse
++ Data Science
++ Automação
++ Machine Learning
 
 ---
 
